@@ -17,9 +17,16 @@ let isLoggedIn = false
 // null => standalone value to tell specific condition
 // undefined => not yet defined
 // symbol => to find uniqueness 
-
-
 // object
+
+
+// data types
+// 1 Number
+// 2 Boolean
+// 3 String
+// 4 null
+// 5 undefined
+// 6 Symbol
 
 console.log(typeof null)
 console.log(typeof undefined)
